@@ -31,7 +31,7 @@ moving_up = False
 moving_down = False
 
 # 상태창 설정
-food = 10
+food = 1
 fuel = 100.0
 day = 1
 
