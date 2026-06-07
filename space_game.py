@@ -134,9 +134,9 @@ while running:
                 if event.key == pygame.K_s:
                     moving_down = False
 
-        # 이미지 생성을 위한 좌표. 나중에 없애야함.
-        if event.type == pygame.MOUSEBUTTONUP:
-            print(event.pos)
+        # # 이미지 생성을 위한 좌표. 나중에 없애야함.
+        # if event.type == pygame.MOUSEBUTTONUP:
+        #     print(event.pos)
 
     # 회전 이미지 생성
     angle = 0
